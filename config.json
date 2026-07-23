@@ -1,9 +1,9 @@
 {
   "$schema": "./source/schema.json",
   "family_name": "Maple Mono",
-  "use_hinted": true,
+  "use_hinted": false,
   "pool_size": 4,
-  "enable_ligature": true,
+  "enable_ligature": false,
   "ttfautohint_param": {},
   "github_mirror": "github.com",
   "infinite_arrow": null,
@@ -81,7 +81,7 @@
     "extra_args": []
   },
   "cn": {
-    "enable": false,
+    "enable": true,
     "with_nerd_font": true,
     "fix_meta_table": true,
     "clean_cache": false,
