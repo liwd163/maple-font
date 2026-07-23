@@ -25,6 +25,8 @@
   <a href="./README_JA.md">日本語</a>
 </p>
 
+# 构建参数修改
+见 https://font.subf.dev/zh-cn/playground/
 # Maple Mono
 
 Maple Mono 是一款开源等宽字体，专注于优化您的编码体验。
